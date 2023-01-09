@@ -602,21 +602,21 @@ p{
         font-size: large;
     }
     .testimonial-1 .text{
-        margin-bottom: 25px;
+        margin-bottom: 2.8rem;
     }
     .testimonial-1 i:nth-child(3), .testimonial-1 .name{
         position: relative;
         bottom: 10px;
     }
     .testimonial-2 .text{
-        margin-bottom: 25px;
+        margin-bottom: 3.4rem;
     }
     .testimonial-2 i:nth-child(2), .testimonial-2 .name{
         position: relative;
         bottom: 10px;
     }
     .testimonial-3 .text{
-        margin-bottom: 25px;
+        margin-bottom: 2.8rem;
     }
     .testimonial-3 i:nth-child(2), .testimonial-3 .name{
         position: relative;
@@ -640,6 +640,9 @@ p{
     }       
     .image-card{
         display: none;
+    }
+    .fourth-container{
+        padding-bottom: 2.5rem;
     }
     #kickstart{
         width: 25em;
@@ -671,7 +674,7 @@ p{
     .context{
         display: grid;
         grid-template-columns: repeat(3,75px);
-        margin-left: 7em;
+        margin-left: 6em;
         margin-top: -2em;
         column-gap: 45px;
     }
